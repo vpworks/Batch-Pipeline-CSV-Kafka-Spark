@@ -8,7 +8,7 @@ This GitHub repo contains the producer and consumer scripts that were used for c
 4) Kafka broker (at broker address) stores topic and its messages.
 5) 
 ### Uses
-It is used for ingestion where it extracts data, and prepares it so that Spark can read it.
+Used for data ingestion: extracts and prepares data so Spark can consume it.
 
 ### Ingestion Modules
 - json
