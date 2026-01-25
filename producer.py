@@ -1,7 +1,9 @@
+# Imports & Dependencies
 import csv
 import json
 from kafka import KafkaProducer
 
+# Defining broker address and topic name
 KAFKA_BROKER= "localhost:9092"
 TOPIC_NAME = "walmart-data"
 
