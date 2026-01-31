@@ -1,4 +1,4 @@
-# Batch-Pipeline-CSV-Kafka-Spark
+# Sales Data Processing Pipeline (Spark – Batch)
 This GitHub repo contains the producer and consumer scripts that were used for creating the pipeline.
 
 ## About Producer Script
